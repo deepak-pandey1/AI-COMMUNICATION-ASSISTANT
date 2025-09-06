@@ -96,7 +96,6 @@ DATABASE_URL=your_database_url</code></pre>
 
 <h2>👤 Author</h2>
 <p>
-<b>Sahil Ansari</b><br>
-GitHub: <a href="https://github.com/itSahil1">@itSahil1</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/sahil-ansari-8b41041b8/">Sahil Ansari</a>
+<b>Deepak Pandey</b><br>
+LinkedIn: <a href="[https://www.linkedin.com/in/sahil-ansari-8b41041b8/](https://www.linkedin.com/in/deepak-pandey786/)">Deepak Pandey</a>
 </p>
